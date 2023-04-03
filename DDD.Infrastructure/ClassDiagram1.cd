@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DDD.Infrastructure.SQLite.AreasSQLite" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite\AreasSQLite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DDD.Infrastructure.SQLite.SQLiteHelper" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAACAAAAAACAA=</HashCode>
+      <FileName>SQLite\SQLiteHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Infrastructure.SQLite.WeatherSQLite" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAEAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLite\WeatherSQLite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>

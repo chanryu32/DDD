@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DDD.Domain.Entities.AreaEntity" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Entities\AreaEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.Entities.WeatherEntity">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAACAEAAAAAAAAAAIAAAAAAAAIAAAAAAEAAA=</HashCode>
+      <FileName>Entities\WeatherEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.Exceptions.InputException" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InputException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.Helpers.FloatHelper" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\FloatHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.Helpers.Guard" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\Guard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.ValueObjects.AreaId">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAgAAAADAA=</HashCode>
+      <FileName>ValueObjects\AreaId.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.ValueObjects.Condition">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAACAQAAQAAAAAAAggAAEADAA=</HashCode>
+      <FileName>ValueObjects\Condition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.ValueObjects.Temperature">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAAwAAAADAI=</HashCode>
+      <FileName>ValueObjects\Temperature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DDD.Domain.ValueObjects.ValueObject&lt;T&gt;" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAQAAIAAAAAAAAAABiA=</HashCode>
+      <FileName>ValueObjects\ValueObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DDD.Domain.Repositories.IAreasRepository" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\IAreasRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DDD.Domain.Repositories.IWeatherRepository" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAEAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\IWeatherRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>
